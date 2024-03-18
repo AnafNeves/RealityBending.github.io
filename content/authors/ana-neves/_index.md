@@ -11,9 +11,8 @@ social:
   link: https://github.com/AnafNeves
 role: Research Assistant<sub><sup><br>University of Sussex</sup></sub>
 interests:
-- Consciousness
-- Staying alive
-- Art
+- All Kinds Consciousness Research
+- Staying Alive
 education:
   courses:
   - course: Mres Psychological Methods
@@ -27,4 +26,5 @@ user_groups:
 - Research Assistants
 ---
 
-The ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently.
+
+
